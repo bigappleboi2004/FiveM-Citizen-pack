@@ -1,2 +1,30 @@
-# FiveM-Citizen-pack
-a citzen That Boost your FiveM FPS and tweaks for low end PC'S. Made by BigboiApple
+Here's the corrected version and your requested guide:  
+
+---
+
+### Guide: Replacing the `citizen` File in FiveM.exe  
+
+#### Step-by-Step Instructions  
+
+1. **Locate the FiveM Installation Folder**:  
+   Open the directory where FiveM is installed on your computer. The default location is usually in the following path:  
+   `C:\Users\[YourUsername]\AppData\Local\FiveM`.  
+
+2. **Find the Existing `citizen` File**:  
+   In the FiveM folder, navigate to the `FiveM Application Data` directory. Here, locate the current `citizen` folder or file.  
+
+3. **Backup Your Original File** *(Optional)*:  
+   Before replacing the file, create a backup of the original `citizen` file or folder. This ensures you can revert to the default settings if needed.  
+
+4. **Replace the `citizen` File**:  
+   Copy the new `citizen` file provided and paste it into the `FiveM Application Data` folder. Choose "Replace the file in the destination" when prompted.  
+
+5. **Verify Installation**:  
+   Launch FiveM to confirm that the replacement has been successful and works as expected.  
+
+---
+
+### Credits  
+
+- **Developer**: BigboiApple  
+
