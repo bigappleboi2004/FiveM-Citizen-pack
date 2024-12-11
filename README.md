@@ -28,5 +28,5 @@ Link Download 🔗
 
 ### Credits  
 
-- **Developer**: BigboiApple  
+- **Developer**: jaaren  
 
